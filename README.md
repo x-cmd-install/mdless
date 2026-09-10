@@ -1,24 +1,71 @@
 # mdless
 
+[中文版本](./README.cn.md)
 
+![mdless](https://repo.x-cmd.io/mdless.svg)
 
-- **Upstream**: <https://github.com/ttscoff/mdless>
-- **Homepage**: <>
-- **Latest release**: `2.1.68` (2026-06-25)
-- **Last commit**: 2026-06-25
-- **License**: MIT
-- **Stars**: 968 · **Forks**: 40 · **Open issues**: 98 · **Contributors**: 10
-
-## Installation
+## Install
 
 ```sh
 x install mdless
 ```
 
-See <https://x-cmd.com/install/mdless> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/ttscoff/mdless>
+- **License**: MIT
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T19:18:11Z._
+- **Latest**: `2.1.68` (2026-06-25)
+- **Last commit**: 2026-06-25
+- **Published**: 2026-06-25T13:07:07Z
+
+## Popularity
+
+- **Stars**: 968 · **Forks**: 40 · **Open issues**: 98 · **Contributors**: 10
+
+## Totals (cumulative)
+
+- **Releases**: 88 · **Merged PRs**: 19 · **Open PRs**: 0 · **Closed issues**: 80 · **Open issues**: 18 · **Commits**: 416
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 1 | 1 | 0 | 1 | 0 | 6 |
+| 360d | 2025-09-15 | 4 | 5 | 0 | 1 | 0 | 19 |
+
+## Code size
+
+Total: **4,401** lines of code across **41** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Ruby | 4,314 | 170 | 319 | 18 |
+| Rakefile | 63 | 0 | 8 | 1 |
+| Fish | 17 | 2 | 1 | 1 |
+| Gherkin | 7 | 0 | 1 | 1 |
+| Markdown | 0 | 1,214 | 479 | 20 |
+
+## OpenSSF Scorecard
+
+Overall score: **3.6 / 10**
+
+Lowest-scoring checks:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Dangerous-Workflow** (-1/10) — no workflows found
+- **Code-Review** (1/10) — Found 3/22 approved changesets -- score normalized to 1
+
+## Improve this data
+
+Install metadata for mdless lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `mdless` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/mdless.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T05:04:40Z._
