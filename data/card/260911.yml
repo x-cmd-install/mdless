@@ -194,4 +194,3 @@ checks:
     details:
       - 'Warn: 0 commits out of 12 are checked with a SAST tool'
 ---
-{"id":344723288,"author":{"login":"ttscoff","id":47833,"node_id":"MDQ6VXNlcjQ3ODMz","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAnNjhs4UjA9Y","tag_name":"2.1.68","target_commitish":"develop","name":"2.1.68","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-06-25T13:06:50Z","updated_at":"2026-06-25T13:07:07Z","published_at":"2026-06-25T13:07:07Z","assets":[],"body":"Invalid format: git. Available formats: def_list, bunch, markdown, keepachangelog\n"}
