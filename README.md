@@ -28,9 +28,9 @@ Overall score: **3.6 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Dangerous-Workflow** (-1/10) — no workflows found
 - **Code-Review** (1/10) — Found 3/22 approved changesets -- score normalized to 1
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (-1/10) — No tokens found
 
 ## Source
 
@@ -54,12 +54,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-17 | 1 | 1 | 0 | 1 | 0 | 6 |
-| last180d | 2026-03-19 | 2 | 4 | 0 | 1 | 0 | 12 |
-| 360d | 2025-09-20 | 4 | 5 | 0 | 1 | 0 | 19 |
-| last720d | 2024-09-25 | 19 | 6 | 0 | 7 | 3 | 80 |
+| 30d | 2026-08-17 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-18 | 1 | 1 | 0 | 1 | 0 | 6 |
+| last180d | 2026-03-20 | 2 | 4 | 0 | 1 | 0 | 12 |
+| 360d | 2025-09-21 | 4 | 5 | 0 | 1 | 0 | 19 |
+| last720d | 2024-09-26 | 19 | 6 | 0 | 7 | 3 | 80 |
 
 ## Improve this data
 
@@ -70,4 +70,4 @@ Install metadata for mdless lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T05:28:51Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T05:27:44Z._
