@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/ttscoff/mdless/releases/344723288",
-  "assets_url": "https://api.github.com/repos/ttscoff/mdless/releases/344723288/assets",
-  "upload_url": "https://uploads.github.com/repos/ttscoff/mdless/releases/344723288/assets{?name,label}",
-  "html_url": "https://github.com/ttscoff/mdless/releases/tag/2.1.68",
-  "id": 344723288,
+  "url": "https://api.github.com/repos/ttscoff/mdless/releases/458838392",
+  "assets_url": "https://api.github.com/repos/ttscoff/mdless/releases/458838392/assets",
+  "upload_url": "https://uploads.github.com/repos/ttscoff/mdless/releases/458838392/assets{?name,label}",
+  "html_url": "https://github.com/ttscoff/mdless/releases/tag/2.1.70",
+  "id": 458838392,
   "author": {
     "login": "ttscoff",
     "id": 47833,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAnNjhs4UjA9Y",
-  "tag_name": "2.1.68",
+  "node_id": "RE_kwDOAnNjhs4bWVF4",
+  "tag_name": "2.1.70",
   "target_commitish": "develop",
-  "name": "2.1.68",
+  "name": "2.1.70",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-06-25T13:06:50Z",
-  "updated_at": "2026-06-25T13:07:07Z",
-  "published_at": "2026-06-25T13:07:07Z",
+  "created_at": "2026-11-26T01:29:48Z",
+  "updated_at": "2026-11-26T01:29:51Z",
+  "published_at": "2026-11-26T01:29:51Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/ttscoff/mdless/tarball/2.1.68",
-  "zipball_url": "https://api.github.com/repos/ttscoff/mdless/zipball/2.1.68",
+  "tarball_url": "https://api.github.com/repos/ttscoff/mdless/tarball/2.1.70",
+  "zipball_url": "https://api.github.com/repos/ttscoff/mdless/zipball/2.1.70",
   "body": "Invalid format: git. Available formats: def_list, bunch, markdown, keepachangelog\n"
 }
