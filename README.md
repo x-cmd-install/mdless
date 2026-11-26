@@ -12,15 +12,15 @@ x install mdless
 
 ## Code insight
 
-Total: **4,401** lines of code across **41** files in the top 5 languages.
+Total: **4,442** lines of code across **42** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Ruby | 4,314 | 170 | 319 | 18 |
+| Ruby | 4,355 | 174 | 330 | 19 |
 | Rakefile | 63 | 0 | 8 | 1 |
 | Fish | 17 | 2 | 1 | 1 |
 | Gherkin | 7 | 0 | 1 | 1 |
-| Markdown | 0 | 1,214 | 479 | 20 |
+| Markdown | 0 | 1,216 | 480 | 20 |
 
 ## OpenSSF Scorecard
 
@@ -39,27 +39,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `2.1.68` (2026-06-25)
-- **Last commit**: 2026-06-25
+- **Latest**: `2.1.70` (2026-11-26)
+- **Last commit**: 2026-11-26
 
 ## Popularity
 
-- **Stars**: 978 · **Forks**: 41 · **Open issues**: 99 · **Contributors**: 10
+- **Stars**: 978 · **Forks**: 41 · **Open issues**: 100 · **Contributors**: 10
 
 ## Totals (cumulative)
 
-- **Releases**: 88 · **Merged PRs**: 19 · **Open PRs**: 0 · **Closed issues**: 80 · **Open issues**: 19 · **Commits**: 416
+- **Releases**: 89 · **Merged PRs**: 20 · **Open PRs**: 0 · **Closed issues**: 83 · **Open issues**: 17 · **Commits**: 422
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-27 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last180d | 2026-05-29 | 1 | 1 | 0 | 1 | 1 | 6 |
-| 360d | 2025-11-30 | 4 | 5 | 0 | 1 | 1 | 19 |
-| last720d | 2024-12-05 | 16 | 6 | 0 | 6 | 4 | 74 |
+| 30d | 2026-10-27 | 1 | 1 | 0 | 1 | 0 | 5 |
+| last60d | 2026-09-27 | 1 | 1 | 0 | 1 | 0 | 5 |
+| 90d | 2026-08-28 | 1 | 1 | 0 | 2 | 0 | 5 |
+| last180d | 2026-05-30 | 2 | 2 | 0 | 3 | 0 | 11 |
+| 360d | 2025-12-01 | 5 | 6 | 0 | 3 | 0 | 24 |
+| last720d | 2024-12-06 | 17 | 7 | 0 | 9 | 2 | 80 |
 
 ## Improve this data
 
@@ -70,4 +70,4 @@ Install metadata for mdless lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:59:23Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:49:05Z._
